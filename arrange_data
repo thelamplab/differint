@@ -126,5 +126,10 @@ fi
 echo "moving design files"
 mv data/design/${subj}* $subj_dir/design
 
+if [ -f "data/zip/sorting_data.zip" ]; then
+  echo "unzipping synth validation data"
+  unzip -q data/zip/sorting_data.zip -d data/sorting
+fi
+
 echo "${subj} in place!"
 
