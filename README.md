@@ -2,7 +2,7 @@
 ### "Increasing stimulus similarity drives nonmonotonic representational change in hippocampus"  
 >Wammes, J. D., Norman, K. A., & Turk-Browne, N. B. (2021). Increasing stimulus similarity drives nonmonotonic representational change in hippocampus. *eLife*.
 
-This repository contains the code used for the analyses of this manuscript. 
+This repository contains the code used for the analyses of this manuscript (**IN PROGRESS**). 
 
 Data will be available via Dryad. 
 
