@@ -4,7 +4,7 @@
 
 This repository contains the code used for the analyses of this manuscript (**IN PROGRESS**). 
 
-Data will be available via Dryad. 
+Data are available via [Dryad](https://doi.org/10.5061/dryad.t4b8gtj38). 
 
 To starthis repository assumes that the 41 subjects' zip files, as well as fieldmaps.zip, design.zip and sorting_data.zip are housed in the folder `differint/data/zip`
 
